@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![ELK](https://img.shields.io/badge/Elasticsearch-F7DF1E?style=flat-square&logo=Elastic&logoColor=black)](github.com/Jungwoo-20/TODO-List)
+[![ELK](https://img.shields.io/badge/Elasticsearch-#005571?style=flat-square&logo=Elastic&logoColor=black)](github.com/Jungwoo-20/TODO-List)
 [![React](https://img.shields.io/badge/React-F7DF1E?style=flat-square&logo=React&logoColor=black)](github.com/Jungwoo-20/TODO-List)
 [![Java](https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=Java&logoColor=black)](github.com/Jungwoo-20/TODO-List)
 [![dj](https://img.shields.io/badge/Django-F7DF1E?style=flat-square&logo=Django&logoColor=black)](github.com/Jungwoo-20/TODO-List)
