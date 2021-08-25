@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=black)](github.com/Jungwoo-20/TODO-List)
 [![ELK](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elastic&logoColor=black)](github.com/Jungwoo-20/TODO-List)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)](github.com/Jungwoo-20/TODO-List)
-[![MacOS]](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=macOS&logoColor=black)](github.com/Jungwoo-20/TODO-List)
+[![MacOS]](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=black)](github.com/Jungwoo-20/TODO-List)
 
