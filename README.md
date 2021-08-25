@@ -15,13 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+### Technical Stack💻
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black)](github.com/Jungwoo-20/TODO-List)
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=black)](github.com/Jungwoo-20/TODO-List)
 
 [![dj](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=black)](github.com/Jungwoo-20/TODO-List)
 [![Flask](https://img.shields.io/badge/Flask-FFFFFF?style=flat-square&logo=Flask&logoColor=black)](github.com/Jungwoo-20/TODO-List)
-
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)](github.com/Jungwoo-20/TODO-List)
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=black)](github.com/Jungwoo-20/TODO-List)
 
@@ -30,5 +29,5 @@ Here are some ideas to get you started:
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)](github.com/Jungwoo-20/TODO-List)
 [![MacOS](https://img.shields.io/badge/macOS-FFFFFF?style=flat-square&logo=macOS&logoColor=black)](github.com/Jungwoo-20/TODO-List)
 
-
+### Today
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJungwoo-20&count_bg=%2347473C&title_bg=%230076FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
