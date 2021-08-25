@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black)]
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black)](github.com/Jungwoo-20/TODO-List)
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=black)](github.com/Jungwoo-20/TODO-List)
 
 [![dj](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=black)](github.com/Jungwoo-20/TODO-List)
