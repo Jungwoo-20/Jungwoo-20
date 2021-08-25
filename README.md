@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Jungwoo-20/TODO-List)
+[![ELK](https://img.shields.io/badge/Elasticsearch-F7DF1E?style=flat-square&logo=Elastic&logoColor=black)](github.com/Jungwoo-20/TODO-List)
