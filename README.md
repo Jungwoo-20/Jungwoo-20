@@ -30,5 +30,9 @@ Here are some ideas to get you started:
 [![MacOS](https://img.shields.io/badge/macOS-FFFFFF?style=flat-square&logo=macOS&logoColor=black)](github.com/Jungwoo-20/TODO-List)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black)](github.com/Jungwoo-20/TODO-List)
 
+### Studying📖
+[![Doc](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=black)](github.com/Jungwoo-20/TODO-List)
+[![Ku](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=black)](github.com/Jungwoo-20/TODO-List)
+
 ### Today
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJungwoo-20&count_bg=%2347473C&title_bg=%230076FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
