@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  -->
+ 
+### 뒤로 말고 앞으로 나아가는 개발자를 지향하는 서정우입니다.
+- 사용자와 조직에서 필요로 하는 사람이 되고자 스스로 고민하고 행동합니다.
+- 고객의 서비스 여정을 분석하고 시스템에 반영하는 것에 흥미를 느낍니다.
+- 개발 외에 새로운 것을 배울 때에도 반복적인 것들을 어떻게 편리하게 바꾸면 좋을지 고민하고 활용하는 것에 관심이 많습니다.
+
+
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://review-jung.notion.site/Dreams-Come-True-4c6f812263c24d8b94cb288439f25f4b)
 <!-- ### Technical Stack💻
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black)](github.com/Jungwoo-20/TODO-List)
