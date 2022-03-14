@@ -1,6 +1,6 @@
 ## Welcome to my GitHub! 👋
 
-<!--
+<!-- 
 **Jungwoo-20/Jungwoo-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ -->
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://review-jung.notion.site/Dreams-Come-True-4c6f812263c24d8b94cb288439f25f4b)
 <!-- ### Technical Stack💻
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black)](github.com/Jungwoo-20/TODO-List)
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 [![ELK](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elastic&logoColor=black)](github.com/Jungwoo-20/TODO-List) -->
 <!-- [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)](github.com/Jungwoo-20/TODO-List)
 [![MacOS](https://img.shields.io/badge/macOS-FFFFFF?style=flat-square&logo=macOS&logoColor=black)](github.com/Jungwoo-20/TODO-List)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black)](github.com/Jungwoo-20/TODO-List) --> -->
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black)](github.com/Jungwoo-20/TODO-List) -->
 
 <!-- ### Studying📖
 [![Doc](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=black)](github.com/Jungwoo-20/TODO-List)
