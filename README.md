@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=black)](github.com/Jungwoo-20/TODO-List)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](github.com/Jungwoo-20/TODO-List)
 <!-- ### Technical Stack💻
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black)](github.com/Jungwoo-20/TODO-List)
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=black)](github.com/Jungwoo-20/TODO-List)
